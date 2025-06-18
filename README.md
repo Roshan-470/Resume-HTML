@@ -22,7 +22,7 @@ This project is an ideal starting point for students, freshers, or professionals
 ---
 
 ## Screenshots
-![image]()
+![image](https://github.com/Roshan-470/Resume-HTML/blob/main/Screenshot%202025-06-17%20005022.png?raw=true)
 
 ## 🚀 Features
 
