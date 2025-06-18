@@ -1,0 +1,100 @@
+HTML Resume – Full Text Explanation
+
+1. Document Declaration:
+The code starts by telling the browser it's an HTML5 document.
+
+2. Language Setting:
+It sets the language to English.
+
+3. Head Section:
+Inside the head, it sets:
+- The character set to UTF-8 (for supporting all characters).
+- The viewport for mobile responsiveness.
+- The title of the webpage as "Document".
+
+4. Body Section:
+This is where all your resume content is written.
+
+--- 
+
+HEADER SECTION:
+
+- Your name “Roshan Hiwase” is displayed as the main heading and underlined.
+- A list of two links is shown: one for LinkedIn, one for GitHub (currently empty links).
+- Your email ID is displayed clearly.
+
+--- 
+
+CAREER OBJECTIVE:
+
+You aim to work in a reputable company, grow your knowledge and skills, and stay updated with tech trends while contributing to the company’s success.
+
+--- 
+
+EDUCATION SECTION:
+
+1. B.Tech in Electronics and Telecommunication from Government College Yavatmal.
+2. HSC completed in 2023 with 77.83%.
+3. SSC completed in 2021 with 90.60%.
+
+---
+
+TECHNICAL SKILLS:
+
+- Programming Languages: C (intermediate), Python (beginner), HTML (basic)
+- Tools and Platforms: VS Code, LinkedIn, GitHub
+
+---
+
+PROJECTS:
+
+- Hotel Management System
+- Roadmap in C Language
+- Calorie Calculator
+- History of India Webpage
+- Portfolio Website
+- Snake Water Gun Game (Python)
+- Number Guessing Game
+
+---
+
+CERTIFICATIONS:
+
+- 2nd runner-up in C-Rush 2.0
+- Participated in Blind C Event at Tech Fusion
+- 1st Prize in Kabaddi at Inter-Branch College Tournament
+
+---
+
+HOBBIES & INTERESTS:
+
+- Solving logic puzzles and coding challenges
+- Playing Kabaddi and Badminton
+- Watching suspense movies
+
+---
+
+PERSONAL DETAILS:
+
+- Date of Birth: 02/08/2006
+- Languages Known: Marathi, Hindi, English
+- Address: At Post Katpur, Taluka Morshi, District Amravati
+
+---
+
+DECLARATION:
+
+I hereby declare that the information mentioned above is true to the best of my knowledge.
+
+---
+
+NOTES:
+
+- You’ve used horizontal lines to neatly separate sections.
+- The structure is clean and beginner-friendly.
+- Consider adding CSS later for better design and mobile responsiveness.
+- Fix minor spelling errors (e.g. "Carrer" → "Career", "continuosly" → "continuously").
+
+---
+
+END OF FILE
